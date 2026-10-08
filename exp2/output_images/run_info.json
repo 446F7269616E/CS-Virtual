@@ -1,0 +1,33 @@
+{
+  "python": "3.12.14",
+  "opencv": "5.0.0",
+  "numpy": "2.5.3",
+  "scikit_image": "0.26.0",
+  "matplotlib": "3.11.2",
+  "image_shape": [
+    690,
+    690,
+    3
+  ],
+  "pixel_bgr_100_100": [
+    84,
+    86,
+    241
+  ],
+  "pixel_rgb_100_100": [
+    241,
+    86,
+    84
+  ],
+  "gray_100_100": 132,
+  "sp_amount": 0.4,
+  "gaussian_mean": 0.2,
+  "gaussian_var": 0.03,
+  "random_seeds": [
+    42,
+    43
+  ],
+  "kernel_size": 5,
+  "manual_equals_opencv": true,
+  "manual_max_pixel_difference": 0
+}
