@@ -30,7 +30,7 @@ python -m pip install -r requirements.txt
 
 打开 `experiment2.ipynb`，右上角选择 `cv (Python 3.12.14)`，按顺序运行，或点击 Run All。Python 文件的解释器也选择 `cv`。
 
-本次按《实验二参考文档.pdf》完成。没有找到单独的 `p1.jpg` 原文件，因此从参考文档中的 RGB 猫图提取图像区域，去掉坐标轴和标题，缩放为 690×690 后保存为 `p1.jpg`。由于提取、缩放和 JPEG 压缩，像素值与参考文档中的示例略有差别。
+
 
 ---
 
