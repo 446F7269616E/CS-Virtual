@@ -1,0 +1,71 @@
+{
+  "python": "3.12.14",
+  "python_executable": "/opt/homebrew/anaconda3/envs/cv/bin/python",
+  "opencv": "5.0.0",
+  "numpy": "2.5.3",
+  "system": "macOS-27.0.1-arm64-arm-64bit",
+  "original_sizes_wh": [
+    [
+      3888,
+      2592
+    ],
+    [
+      3888,
+      2592
+    ]
+  ],
+  "input_sizes_wh": [
+    [
+      1200,
+      800
+    ],
+    [
+      1200,
+      800
+    ]
+  ],
+  "parameters": {
+    "max_width": 1200,
+    "trees": 5,
+    "checks": 50,
+    "k": 2,
+    "ratio": 0.7,
+    "ransac_threshold_px": 5.0,
+    "seed": 42
+  },
+  "keypoints_a": 2495,
+  "keypoints_b": 1748,
+  "knn_groups": 2495,
+  "good_matches": 751,
+  "inliers": 690,
+  "inlier_ratio": 0.918774966711052,
+  "inlier_mean_error_px": 0.3171550929546356,
+  "H_b_to_a": [
+    [
+      0.8052929612393674,
+      -0.00021639730945665343,
+      376.388456777543
+    ],
+    [
+      -0.06298353096130742,
+      0.9337428027724247,
+      19.83445532252118
+    ],
+    [
+      -0.00016597227764190858,
+      4.019373389274239e-06,
+      1.0
+    ]
+  ],
+  "canvas_bounds": [
+    0,
+    -70,
+    1677,
+    860
+  ],
+  "stitched_size_wh": [
+    1677,
+    930
+  ],
+  "source": "opencv/opencv_extra 4.x testdata/stitching boat1.jpg boat2.jpg"
+}

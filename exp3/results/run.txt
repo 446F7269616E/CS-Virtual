@@ -1,0 +1,13 @@
+Python 3.12.14 | OpenCV 5.0.0 | NumPy 2.5.3
+Input A/B: 1200 x 800
+SIFT keypoints A/B: 2495 / 1748
+FLANN k=2 groups: 2495 | Lowe ratio=0.7: 751
+RANSAC inliers: 690/751 (91.88%)
+Inlier mean reprojection error: 0.3172 px
+H (b -> a):
+[[ 8.05292961e-01 -2.16397309e-04  3.76388457e+02]
+ [-6.29835310e-02  9.33742803e-01  1.98344553e+01]
+ [-1.65972278e-04  4.01937339e-06  1.00000000e+00]]
+Stitched size: 1677 x 930
+Saved: results/01_inputs.jpg, 02_matches_all.png,
+       03_inliers_top80.png, 04_stitched.png, run_info.json
