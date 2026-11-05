@@ -12,7 +12,7 @@
 - 实验工具：VS Code，集成终端及图像预览
 - Python 环境：已有 Conda `cv`，Python 3.12.14
 - 主要依赖：OpenCV 5.0.0（opencv-python 5.0.0.93）、NumPy 2.5.3
-- 实验依据：《实验三参考代码.pdf》中的 `image_fusion.py`
+- 实验依据：《实验三参考代码(1).pdf》中的 `image_fusion.py`
 
 ## 三、实验内容
 
@@ -123,6 +123,6 @@ H（b → a）=
 
 ## 参考资料
 
-1. 本次上传的[实验三参考代码](reference/实验三参考代码.pdf)。
+1. 本轮上传的[实验三参考代码](reference/实验三参考代码(1).pdf)。
 2. [OpenCV 官方拼接样例图片目录](https://github.com/opencv/opencv_extra/tree/4.x/testdata/stitching)，本次使用 boat1.jpg、boat2.jpg，获取日期为 2026-10-22。
 3. [OpenCV 官方图像拼接示例说明](https://docs.opencv.org/5.0/tutorials/others/stitcher.html)。本实验只采用其中的样例图片，算法流程按课程参考代码实现。

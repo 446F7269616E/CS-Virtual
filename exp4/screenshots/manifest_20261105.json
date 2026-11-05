@@ -1,0 +1,28 @@
+{
+  "captured_on": "2026-11-05",
+  "application": "JupyterLab, local browser",
+  "edited": false,
+  "notes": "Original browser JPEG screenshots, no cropping or redrawing; earlier exp3 PNG screenshots are retained separately.",
+  "files": [
+    {
+      "name": "01_model_code.jpg",
+      "sha256": "63c4c92104c2dc9f197e8270a4c24e13119e0054476112a4dee985640a0d7c33"
+    },
+    {
+      "name": "02_training_code.jpg",
+      "sha256": "9c77c87a21eb4c065dd683c15ac0fe91332a0b1d695742bba2d206cba307adfc"
+    },
+    {
+      "name": "03_run.jpg",
+      "sha256": "40768cd3cf65972bd4bbd301993ccc78f1db98606ce0d76e5f2aaeeba19082c8"
+    },
+    {
+      "name": "04_predictions.jpg",
+      "sha256": "5221951cc3855e7b9060ed7e955827bb8161bb899d5eb70d2c55bac50f695970"
+    },
+    {
+      "name": "05_evaluation_code.jpg",
+      "sha256": "4d8a8617eab4d3478eac3b8d2cb412e5fa7e366f8059022dd30f40b530a38631"
+    }
+  ]
+}

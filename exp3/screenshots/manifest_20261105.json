@@ -1,0 +1,20 @@
+{
+  "captured_on": "2026-11-05",
+  "application": "JupyterLab, local browser",
+  "edited": false,
+  "notes": "Original browser JPEG screenshots, no cropping or redrawing; earlier exp3 PNG screenshots are retained separately.",
+  "files": [
+    {
+      "name": "09_current_code.jpg",
+      "sha256": "02a3ccb599200ef0a27c11fb9cd8d4de9d6417e11df45a627526f09783112110"
+    },
+    {
+      "name": "10_current_run.jpg",
+      "sha256": "90d2200e6fac1d38a89864c3000783756ded970296eba8e1ae0a52af8f1618aa"
+    },
+    {
+      "name": "11_current_result.jpg",
+      "sha256": "7ff83fce55e41b05c9f6fd9065a812ce35f45c0f97992016303091f7b3519fc4"
+    }
+  ]
+}

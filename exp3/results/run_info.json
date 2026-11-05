@@ -1,9 +1,10 @@
 {
+  "run_at": "2026-11-05T13:44:30.494490+08:00",
   "python": "3.12.14",
-  "python_executable": "/opt/homebrew/anaconda3/envs/cv/bin/python",
+  "python_executable": "/Users/digitalair/CS Virtual/exp4/.venv/bin/python",
   "opencv": "5.0.0",
   "numpy": "2.5.3",
-  "system": "macOS-27.0.1-arm64-arm-64bit",
+  "system": "macOS-27.2-arm64-arm-64bit",
   "original_sizes_wh": [
     [
       3888,

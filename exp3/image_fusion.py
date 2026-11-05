@@ -1,5 +1,6 @@
 """实验三：依据参考代码，使用 SIFT、FLANN、RANSAC 完成图像拼接。"""
 from pathlib import Path
+from datetime import datetime
 import argparse
 import json
 import platform
@@ -111,6 +112,7 @@ def run_experiment(base_dir, max_width=1200, show=False):
     save_image(output / "03_inliers_top80.png", preview)
     save_image(output / "04_stitched.png", stitched)
     info = {
+        "run_at": datetime.now().astimezone().isoformat(),
         "python": platform.python_version(), "python_executable": sys.executable,
         "opencv": cv2.__version__, "numpy": np.__version__,
         "system": platform.platform(), "original_sizes_wh": [original_a, original_b],
