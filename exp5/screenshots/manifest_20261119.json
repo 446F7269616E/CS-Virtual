@@ -1,0 +1,42 @@
+{
+  "captured_on": "2026-11-19",
+  "applications": [
+    "JupyterLab (local browser)",
+    "Chrome image viewer (local Jupyter results)"
+  ],
+  "edited": false,
+  "files": [
+    {
+      "name": "01_model_code.jpg",
+      "sha256": "81bba829e5c51469d8d9d52e40824d172c8633c1857bbf5f9d4ae56abf8681cc"
+    },
+    {
+      "name": "02_training_code.jpg",
+      "sha256": "980401c2648a0773114ae8cb782b00573efacbfb466a4835e4c0d932f4f312d5"
+    },
+    {
+      "name": "03_evaluation_code.jpg",
+      "sha256": "0ff46ac7baf9faa6f3e78489aacf8e9e51226493182b7e07e5a793f5ede221bb"
+    },
+    {
+      "name": "04_run.jpg",
+      "sha256": "cb429d245d8e7cec2e61ced8018e87568b2dd3b4472534d3922d11688ff3c794"
+    },
+    {
+      "name": "05_feature_maps.jpg",
+      "sha256": "775541611380c969cc19f819233b20a8fe7ae813bc8ddbd0dccd13d9a0690ee1"
+    },
+    {
+      "name": "06_group1_test.jpg",
+      "sha256": "5e2233bb6981874538d4758d8e20bfff284401af66b1f417f0303a04ed17c0ec"
+    },
+    {
+      "name": "07_group2_test.jpg",
+      "sha256": "c5c0db8f73185f417a5e4ecdc7cc758f747f6e45d0bcbca4521ac8390a3ab60d"
+    },
+    {
+      "name": "08_additional_run.jpg",
+      "sha256": "4c633e1bc51ba10c53a1d614561678f359ed91322335ee3752450b1d2b373e25"
+    }
+  ]
+}

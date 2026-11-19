@@ -4,3 +4,4 @@
 - [实验二：图像增强](exp2/README.md)
 - [实验三：特征匹配与图像拼接](exp3/README.md)
 - [实验四：基于多层感知机的手写数字识别](exp4/README.md)
+- [实验五：基于LeNet的手写数字识别](exp5/README.md)
